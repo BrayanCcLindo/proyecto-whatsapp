@@ -6,7 +6,7 @@
     gap: 1.5rem;
     flex-direction: column-reverse;
     flex-grow: 1;
-    background-image: url(/images/bg.jpg);
+    background-image: url(images/bg.jpg);
     padding: 1rem;
 }
 
@@ -54,7 +54,7 @@
 }
 
 .message-status.is-doublecheck{
-    background-image: url(/images/whatsapp-check.png);
+    background-image: url(images/whatsapp-check.png);
     background-repeat: no-repeat;
     background-position: center;
 
