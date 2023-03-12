@@ -6,10 +6,12 @@
 }
 .logo{
     background: var(--grey-4);
-    max-inline-size: 27.43rem;
-    padding-inline-start: 1rem;
-    padding-inline-end: 1rem;
+    width: 27.43rem;
+    padding: 1rem;
+    block-size: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
 
-    padding-block: 1rem;
 
 }
